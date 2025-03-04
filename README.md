@@ -1,2 +1,10 @@
 # Validation-of-turbulence-models-for-representing-pressure-coefficients.-Supplementary-Material
 Supplementary material for the article titled "Validation of turbulence models for representing pressure coefficients for natural ventilation purposes on an isolated low-rise building".
+
+This document is the supplementary material for the article titled *Validation of turbulence models for representing pressure coefficients for natural ventilation purposes on an isolated low-rise building*. It provides further validation and analysis of turbulence models used to represent the pressure coefficients (\(C_P\)) on an isolated low-rise building, with the goal of assessing their applicability in natural ventilation design.
+
+The validation includes velocity and turbulence profiles within a computational domain without any building structure, demonstrating that the velocity profiles (\(u\)) and turbulence variables (\(I\), \(k\), \(\epsilon\), \(\omega\)) remain consistent across the domain. Additionally, contour maps of pressure coefficients on the building faces for various wind incidence angles are presented, obtained from CFD simulations. These results are compared to experimentally derived wall-averaged pressure coefficients.
+
+The document also includes local comparisons of the pressure coefficients obtained from the BDA and TPU databases, with CFD simulations. The accuracy of the turbulence models is assessed through the Normalized Mean Square Error (NMSE) and the Normalized Root Mean Square Error (\(\varepsilon\)). Furthermore, the analysis extends to local pressure coefficients along the horizontal and vertical centerlines of the building. Turbulent kinetic energy \(k\) and turbulent viscosity \(\nu_t\) fields are also examined, along with comparisons of flow streamlines for different wind incidence angles.
+
+Overall, this supplementary material provides a comprehensive evaluation of the turbulence models and their effectiveness in predicting pressure coefficients within the context of natural ventilation in buildings.
